@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Plot images
+plots/
+
+# Output files
+output/
+
+# Logs
+logs/
+
+# Temporary files
+.tmp/
+
+# Cache
+.cache/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
