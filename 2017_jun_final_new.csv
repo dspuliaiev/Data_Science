@@ -1,6 +1,12 @@
 ,Посада,amin,amax,avg
-0,Junior Software Engineer,100,1250,560.84
-1,Senior Software Engineer,1300,9200,3387.1
-2,Software Engineer,500,5400,1799.07
-3,System Architect,3000,5000,4000.0
-4,Technical Lead,1425,6200,3165.91
+0,Data Scientist / Data Analyst,2700,2700,2700.0
+1,DevOps,7000,7000,7000.0
+2,ERP / CRM,2000,2000,2000.0
+3,HTML coder,385,600,457.0
+4,Junior Software Engineer,75,2600,605.66
+5,Product Manager,3000,3000,3000.0
+6,Senior Software Engineer,350,9200,3243.2
+7,Software Engineer,100,7000,1678.63
+8,System Architect,400,10000,4387.08
+9,Team lead,2500,4000,3250.0
+10,Technical Lead,500,18000,3664.27
